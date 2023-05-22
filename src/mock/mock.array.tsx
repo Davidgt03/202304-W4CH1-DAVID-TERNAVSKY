@@ -29,4 +29,15 @@ export const array = [
     alternativeText: "Churchs pointing at you",
     selected: true,
   },
+
+  {
+    id: 4,
+    name: "John Cobra",
+    status: "Alive",
+    profession: "Maquetador de vidreo",
+    twitter: "@john_COfficial",
+    picture: "Screenshot_7.png",
+    alternativeText: "Churchs pointing at you",
+    selected: true,
+  },
 ];
